@@ -1,0 +1,1 @@
+Hi! I hope you enjoy my Custom Key Ring 3D Model in wich I replicated the Github logo. I made it with Autodesk Fusion 360 and I'm sharing to you in .STL file format, so feel free to use it. You can open it with: Solidworks, Meshmixer, ThinkerCAD, etc.
